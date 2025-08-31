@@ -1,7 +1,7 @@
 pipeline{ //pipeline here need to writing herw
     tools{
         jdk 'myjava'
-     sdfsfsda   maven 'mymaven1'
+     sdfsfsda   maven 'mymaven1222'
     }
     agent any new chnage
     stages{
