@@ -1,4 +1,4 @@
-pipeline{ //pipeline here need to wrinte 
+pipeline{ //pipeline here need to writing herw
     tools{
         jdk 'myjava'
      sdfsfsda   maven 'mymaven1'
