@@ -1,7 +1,7 @@
 sdfdgfdfgnew commit here  inpipeline{
     tools{
         jdk 'myjava'
-     sdfsfsda   maven 'mymaven131'
+     sdfsfsda   maven 'mymaven1'
     }
     agent any new chnage
     stages{
