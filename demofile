@@ -1,4 +1,4 @@
-sdfdgfdfgnew commit here  inpipeline{
+pipeline{ //pipeline here need to wrinte 
     tools{
         jdk 'myjava'
      sdfsfsda   maven 'mymaven1'
